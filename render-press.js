@@ -52,11 +52,12 @@
   function renderTimelineLi(item) {
     const dateLabel = item.dateLabel ? escapeHtml(item.dateLabel) : escapeHtml(String(item.year));
     const title = escapeHtml(item.title);
+    const year = Number(item.year);
 
     return (
       `<li>` +
       `<div class="timeline-date">${dateLabel}</div>` +
-      `<div class="timeline-details">${title}, ${renderOutletLink(item)}.</div>` +
+      `<div class="timeline-details">${title} (${year}), ${renderOutletLink(item)}.</div>` +
       `</li>`
     );
   }
@@ -88,4 +89,3 @@
     main();
   }
 })();
-
