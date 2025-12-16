@@ -1,6 +1,12 @@
 /* Publications data source-of-truth (edit this file). */
 window.PUBLICATIONS = [
   {
+    "title": "Unfairness Attack and Unified Provable Defense on AI-powered Internet of Energy",
+    "authors": "Hua Ma, Ruoxi Sun, Xin Yuan, Minhui Xue, Yansong Gao, Surya Nepal, Xingliang Yuan, Carsten Rudolph, Ling Liu",
+    "venue": "IEEE Transactions on Information Forensics & Security (TIFS)",
+    "year": 2026
+  },
+  {
     "title": "SMASH: Scalable Maliciously Secure Hybrid Multi-party Computation Framework for Privacy-Preserving Large Language Models",
     "authors": "Yunlv Lv, Rui Zhang, Zhiyuan Zhang, Ziyi Wan, Lanxue Zhang, Minhui Xue, Jiangtao Li, Yanan Cao",
     "venue": "USENIX Security Symposium",
