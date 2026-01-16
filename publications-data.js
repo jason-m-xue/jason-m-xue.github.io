@@ -49,6 +49,24 @@ window.PUBLICATIONS = [
     "year": 2026
   },
   {
+    "title": "WinFLoRA: Incentivizing Client-Adaptive Aggregation in Federated LoRA under Privacy Heterogeneity",
+    "authors": "Mengsha Kou, Xiaoyu Xia, Ziqi Wang, Ibrahim Khalil, Ruikun Luo, Jingwen Zhou, Minhui Xue",
+    "venue": "The Web Conference (WWW)",
+    "year": 2026
+  },
+  {
+    "title": "CoLOR-DP: Conjugate Low-Rank Differential Privacy for Structure-Aware LoRA Fine-Tuning",
+    "authors": "Kai Zhang, Yuxuan Xu, Wenxiang Lin, Chaoqun Hong, Pei-Wei Tsai, Xin Yuan, Minhui Xue",
+    "venue": "The Web Conference (WWW)",
+    "year": 2026
+  },
+  {
+    "title": "Octopus: Vehicle-to-Road Collaborative Perception for Autonomous Driving with Closed-Loop Fusion",
+    "authors": "Ruikun Luo, Jiadong Zhao, Peize Su, Jieming Yang, Jing Yang, Yuan Gao, Minhui Xue, Xiaoyu Xia",
+    "venue": "The Web Conference (WWW)",
+    "year": 2026
+  },
+  {
     "title": "Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts",
     "authors": "Shuofeng Liu, Mengyao Ma, Minhui Xue, Guangdong Bai",
     "venue": "IEEE Symposium on Security and Privacy (Oakland)",
